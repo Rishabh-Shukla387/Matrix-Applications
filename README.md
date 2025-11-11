@@ -196,10 +196,7 @@ The **Matrix Visualizer** lets you apply such transformations directly and see t
 
 License
 
-This project is open source and available under the MIT License(.\https://mit-license.org/).
+This project is open source and available under the **[MIT License](https://choosealicense.com/licenses/mit/)**
 
 
 ---
-
-Would you like me to add a short **“Contributing”** section (for students or teachers who might fork your repo and add new transformations or graph features)?
-It can make the README look more open-source and classroom-friendly.

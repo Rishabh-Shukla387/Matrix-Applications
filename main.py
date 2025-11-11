@@ -27,7 +27,7 @@ def run_matrix():
 
 def run_path():
     base_path = getattr(sys, "_MEIPASS", os.path.dirname(__file__))
-    script_path = os.path.join(base_path, "visual_graph_k_length.py")
+    script_path = os.path.join(base_path, "visual.py")
     subprocess.Popen([sys.executable, script_path])
     root.destroy()
 
@@ -62,3 +62,4 @@ tk.Button(
 ).pack(pady=15)
 
 root.mainloop()
+

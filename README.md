@@ -13,15 +13,12 @@ Both are designed for **students and educators** to visually explore mathematica
 
 ## 📁 Project Structure
 
-```
 ├── main.py           # Launcher — lets you choose which app to run
 ├── matrix.py         # Matrix Visualizer (image transformation using matrices)
 ├── visual.py         # Path Visualizer (graph + adjacency matrix + path finding)
 ├── image.jpeg        # Sample image used in Matrix Visualizer
 ├── requirements.txt  # Python dependencies
-````
 
----
 
 ## Features
 

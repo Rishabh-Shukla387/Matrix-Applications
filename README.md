@@ -194,6 +194,9 @@ The **Matrix Visualizer** lets you apply such transformations directly and see t
 🌐 [GitHub Profile](https://github.com/Rishabh-Shukla387)
 ---
 
+License
+
+This project is open source and available under the MIT License(.\https://mit-license.org/).
 
 
 ---
